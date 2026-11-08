@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the source article when discussing its findings. Nidal Turab is the creator of this companion package; all original article authors are credited in the reference."
+type: software
+title: "DeepInsight Cyber-Threat Detection: Published Results and Reproducibility Scaffold"
+authors:
+  - family-names: "Turab"
+    given-names: "Nidal"
+    affiliation: "Al-Ahliyya Amman University"
+repository-code: "https://github.com/Nidalturab/deepinsight-cyber-threat-results"
+abstract: "PDF-derived reported results, plotting code and a checklist for completing experimental reproducibility. The original training experiments have not been rerun."
+preferred-citation:
+  type: article
+  title: "Challenges in applying DeepInsight for cyber threat detection"
+  authors:
+    - family-names: "AL-Essa"
+      given-names: "Malik"
+    - family-names: "Qatawneh"
+      given-names: "Mohammad"
+    - family-names: "Turab"
+      given-names: "Nidal"
+    - family-names: "Alsarhan"
+      given-names: "Yazeed"
+  year: 2026
+  journal: "Bulletin of Electrical Engineering and Informatics"
+  volume: 15
+  issue: 2
+  start: 1231
+  end: 1238
+  doi: "10.11591/eei.v15i2.9649"
