@@ -1,0 +1,64 @@
+{
+  "status": "reported settings only; not an executable training configuration",
+  "source_doi": "10.11591/eei.v15i2.9649",
+  "python": "3.9",
+  "keras": "2.7",
+  "tensorflow": null,
+  "hyperopt_version": null,
+  "optimizer": "Adam",
+  "initialization": "Xavier (variant unspecified)",
+  "max_epochs": 150,
+  "early_stopping_monitor": "validation loss",
+  "patience": null,
+  "validation_fraction_of_training": 0.2,
+  "search": {
+    "algorithm": "TPE via Hyperopt",
+    "learning_rate_bounds": [
+      0.0001,
+      0.001
+    ],
+    "batch_sizes": [
+      32,
+      64,
+      128,
+      256,
+      512
+    ],
+    "dropout_bounds": [
+      0,
+      1
+    ],
+    "hidden_neuron_choices": [
+      32,
+      64,
+      128,
+      256,
+      512,
+      1024
+    ],
+    "distributions": null,
+    "trial_count": null,
+    "selected_values": null
+  },
+  "deepinsight": {
+    "implementation": null,
+    "image_size": null,
+    "embedding_parameters": null,
+    "random_seed": null
+  },
+  "dataset_counts": {
+    "NSL-KDD": {
+      "train": 25192,
+      "test": 22544,
+      "classes": 5
+    },
+    "CICMalDroid20": {
+      "train": 8118,
+      "test": 3480,
+      "classes": 5,
+      "feature_count": "UNRESOLVED: Table 1 = 41; text = 470"
+    }
+  },
+  "split_indices": null,
+  "model_layer_details": null
+}

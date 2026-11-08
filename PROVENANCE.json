@@ -1,0 +1,10 @@
+{
+  "source_filename": "9649-31588-1-PB.pdf",
+  "sha256": "8fa2d28f5d5948f93a1a7cf8e1b75a5223a62847aa7d80a9b34a62f2bf5faf4c",
+  "doi": "10.11591/eei.v15i2.9649",
+  "extraction_date": "2026-11-08",
+  "aggregate_source": "Table 4, PDF page 5 / printed p. 1235",
+  "per_class_source": "Figure 1 printed numeric labels, PDF page 5 / printed p. 1235",
+  "verification": "Text extraction and visual inspection of source page",
+  "experimental_replication": false
+}

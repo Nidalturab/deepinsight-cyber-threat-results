@@ -1,0 +1,11 @@
+dataset,class,tabular_dnn,deepinsight_cnn,source
+NSL-KDD,Benign,0.8,0.79,"Figure 1 labels, p. 1235"
+NSL-KDD,DoS,0.89,0.88,"Figure 1 labels, p. 1235"
+NSL-KDD,Probe,0.77,0.71,"Figure 1 labels, p. 1235"
+NSL-KDD,R2L,0.18,0.17,"Figure 1 labels, p. 1235"
+NSL-KDD,U2R,0.17,0.14,"Figure 1 labels, p. 1235"
+CICMalDroid20,Benign,0.89,0.8,"Figure 1 labels, p. 1235"
+CICMalDroid20,Adware,0.78,0.66,"Figure 1 labels, p. 1235"
+CICMalDroid20,Banking,0.78,0.65,"Figure 1 labels, p. 1235"
+CICMalDroid20,SMSMalware,0.83,0.88,"Figure 1 labels, p. 1235"
+CICMalDroid20,Riskware,0.72,0.76,"Figure 1 labels, p. 1235"

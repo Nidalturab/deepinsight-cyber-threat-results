@@ -1,0 +1,7 @@
+dataset,metric,tabular_dnn,deepinsight_cnn,image_minus_tabular,source
+NSL-KDD,Weighted F1,0.74,0.73,-0.01,"Table 4, p. 1235"
+NSL-KDD,Macro F1,0.56,0.54,-0.02,"Table 4, p. 1235"
+NSL-KDD,Overall accuracy,0.78,0.76,-0.02,"Table 4, p. 1235"
+CICMalDroid20,Weighted F1,0.79,0.78,-0.01,"Table 4, p. 1235"
+CICMalDroid20,Macro F1,0.8,0.75,-0.05,"Table 4, p. 1235"
+CICMalDroid20,Overall accuracy,0.8,0.77,-0.03,"Table 4, p. 1235"
